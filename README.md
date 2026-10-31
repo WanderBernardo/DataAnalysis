@@ -8,5 +8,6 @@ This repository centralizes all projects about Data Analysis.
 
 ### Excel
 
-01. [Investment Tracking with Excel (Controle de Investimentos com Excel)](https://github.com/WanderBernardo/DataAnalysis_Project_InvestmentTrackingwithExcel.git)
+01. [Income Tax Return Organizer (Controle de Investimentos com Excel)](https://github.com/WanderBernardo/DataAnalysis_Project_InvestmentTrackingwithExcel.git)
+02. [Income Tax Return Organizer (Organizador de Declaração de Imposto de Renda)](https://github.com/WanderBernardo/DataAnalysis_Project_IncomeTaxReturnOrganizer.git)
           
