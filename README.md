@@ -1,4 +1,4 @@
-# DataAnalysis
+# Data Analysis
 This repository centralizes all projects about Data Analysis.
 
 
