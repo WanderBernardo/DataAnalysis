@@ -2,7 +2,7 @@
 This repository centralizes all projects about Data Analysis.
 
 
-
+** Many projects are simple, but the concepts presented and used are of great value.
 
 ## Projects
 
