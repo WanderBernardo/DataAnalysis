@@ -6,6 +6,9 @@ This repository centralizes all projects about Data Analysis.
 
 ## Projects
 
+### Artificial Intelligence (AI)
+01. [Creating Data Processing Agents (Criação de agentes de processamento de dados)](https://github.com/WanderBernardo/DataAnalysisIA_Project_DataProcessingAgents.git)
+
 ### Excel
 
 01. [Investment Tracking with Excel (Controle de Investimentos com Excel)](https://github.com/WanderBernardo/DataAnalysis_Project_InvestmentTrackingwithExcel.git)
